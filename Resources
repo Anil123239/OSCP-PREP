@@ -2,6 +2,26 @@ Machines :
 1]  https://docs.google.com/spreadsheets/d/18weuz_Eeynr6sXFQ87Cd5F0slOj9Z6rt/edit?gid=487240997#gid=487240997
 2]  https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
 
+PRACTICE SOURCE : 
+	1. Portswigger 
+	2. HTB
+	3. TRYHACKME
+  4. VULNHUB MACHINES
+  5. OSCP Labs
+	4. Owasp juiceshop
+	5. DVWA
+	6. METASPLOITABLE2
+	8. OAST
+	9. https://github.com/rkhal101/Web-Security-Academy-Series/blob/main/csrf/theory/CSRF%20Complete%20Guide%20Theory%20Video%20Slides.pdf
+	10. Rana khalil videos, david bombal, 
+
+BASICS : 
+  1. OS - Windows, linux.
+  2. Networking - wireless
+  3. HACKING - server Wireless, physical, software, hardware, electronic devices hacking, network hacking.
+  4. AI & ML - Integrate AI for hacking  
+
+
 If you don't have time you can follow the following path, when you learn new concepts and get your hands dirty with CTFs, you will find a lot of path or platform for cybersecurity educations. (If anyone need to change the paths, feel free. This isn't mandatory hierarchy)
 # Level 1 - Intro
 - [ ] OpenVPN  https://tryhackme.com/room/openvpn
